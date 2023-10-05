@@ -1,0 +1,14 @@
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\problema_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\problema_07.AssemblyInfoInputs.cache
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\problema_07.AssemblyInfo.cs
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\problema_07.csproj.CoreCompileInputs.cache
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\bin\Debug\net6.0\problema_07.exe
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\bin\Debug\net6.0\problema_07.deps.json
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\bin\Debug\net6.0\problema_07.runtimeconfig.json
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\bin\Debug\net6.0\problema_07.dll
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\bin\Debug\net6.0\problema_07.pdb
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\problema_07.dll
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\refint\problema_07.dll
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\problema_07.pdb
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\problema_07.genruntimeconfig.cache
+C:\Users\gabrielbueno\source\repos\problema_07\problema_07\obj\Debug\net6.0\ref\problema_07.dll
